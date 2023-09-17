@@ -1,0 +1,5 @@
+contact_properties
+
+(i) Contact material 01 name : material 1
+(ii) Contact material 01 name : material 2
+(iii) Coulomb friction: 4
